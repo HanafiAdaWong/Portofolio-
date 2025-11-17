@@ -1,5 +1,5 @@
 export const portfolioData = {
-  name: "Muhammad Hanafi Ginting",
+  name: "Mhd Hanafi Ginting",
   role: "Mahasiswa Teknik Informatika",
   university: "Universitas Budi Dharma",
   location: "Medan, Indonesia",
