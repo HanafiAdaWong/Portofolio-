@@ -140,7 +140,7 @@ const About: React.FC<AboutProps> = ({ setActiveSection }) => {
             </div>
             
             <blockquote className="text-xl text-gray-200 italic mb-4 leading-relaxed">
-              "Setiap baris kode yang saya tulis adalah langkah menuju pemahaman yang lebih dalam tentang teknologi dan cara membangun solusi yang bermanfaat untuk komunitas."
+              "Setiap baris kode yang saya ketik adalah langkah menuju pemahaman yang lebih dalam tentang teknologi dan cara membangun solusi yang bermanfaat untuk komunitas."
             </blockquote>
             
             <p className="text-purple-300 font-semibold">— {portfolioData.name}</p>

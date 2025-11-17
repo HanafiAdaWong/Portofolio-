@@ -26,7 +26,7 @@ const Hero: React.FC<HeroProps> = ({ setActiveSection }) => {
               <div className="mb-8">
                 <div className="w-24 h-24 mx-auto lg:mx-0 mb-6 rounded-full overflow-hidden shadow-lg border-2 border-purple-400/50">
                   <img 
-                    src="https://ik.imagekit.io/lhtvft4ai/leon_senter.gif?updatedAt=1751304790424"
+                    src="https://ik.imagekit.io/uch3hpxqn/h.jpg?updatedAt=1762874709108"
                     alt="Hanakagu Profile"
                     className="w-full h-full object-cover"
                   />
