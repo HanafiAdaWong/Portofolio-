@@ -51,9 +51,9 @@ const Social: React.FC<SocialProps> = ({ setActiveSection }) => {
     },
     {
       name: 'TikTok',
-      username: '@han.oliviera',
+      username: '@harukashii.shi',
       description: 'Uploading Savage Moment',
-      url: "https://www.tiktok.com/@han.oliviera",
+      url: "https://www.tiktok.com/@harukashii.shi",
       icon: TikTokIcon,
       color: 'from-black to-pink-600',
       hoverColor: 'hover:from-gray-900 hover:to-pink-700'
@@ -171,7 +171,7 @@ const Social: React.FC<SocialProps> = ({ setActiveSection }) => {
                 Follow Instagram
               </button>
               <button
-                onClick={() => handleSocialClick("https://www.tiktok.com/@han.oliviera")}
+                onClick={() => handleSocialClick("https://www.tiktok.com/@harukashii.shi")}
                 className="px-6 py-3 bg-gradient-to-r from-black to-pink-600 text-white rounded-xl font-semibold hover:from-gray-900 hover:to-pink-700 transition-all duration-300 shadow-lg hover:shadow-xl"
               >
                 Follow TikTok
